@@ -4,6 +4,6 @@ The application material (Research statement, Teaching statement) I used for app
 
 This is just an example for people to have a place to start.
 
-The ideas presented in this are unpublished so please do not use, especially without credit.
+The ideas presented in this are unpublished so please do not use, especially do not use without credit.
 
 Good luck!
